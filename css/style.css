@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rajdhani:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+  
+/* Global css start */
+body{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+}
+.cus-btn{
+    border-radius: 33px;
+    background: #21B573;
+    font-family: "Roboto", serif;
+}
+.cus-btn:hover{
+  background-color: rgb(49, 30, 30);
+}
+
+h4{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    color: rgba(65, 57, 96, 1);
+ 
+    
+}
+/* header section css start */
+header{
+    background: #F0FFF0 !important;
+    width: 100%;
+}
+
+.navbar-brand img{
+    width: 198.07px;
+}
+
+.signin {
+    padding: 6px 28px;
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+.nav-item {
+    margin-left: 48px;
+}
+
+/* banner section css start */
+.banner-section .sub-title{
+    
+    color: #FD511A;
+    line-height: 24px;
+    
+}
+.banner-section h1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    width: 67%;
+   
+
+
+}
+
+.banner-section h1 span{
+    color: #21B573;
+
+}
+.banner-section p{
+    font-weight: 500;
+    width: 65%;
+}
+.banner-section a {
+    padding: 12px 36px;
+    color: white;
+    text-decoration: none;
+}
+.btn-part{
+    margin-top: 35px;
+}
+.banner-section{
+    background: #F0FFF0 !important;
+    padding: 50px 0px;
+}
+.banner-section img{
+   width: 554px;
+}
+
+/* feature section css start */
+
+.feature-section {
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.feature-section .f-inner {
+    box-shadow: 0px 20px 40px 0px #0000001A;
+    padding: 50px 0px 35px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+.feature-section .f-inner:hover{
+   background-color: silver;
+   box-shadow: 0px 20px 40px 0px #0000001A;
+}
+
+ 
+.feature-section .f-inner .img-part {
+
+   margin-bottom: 20px;
+}
+
+.feature-section .f-inner .img-part img{
+
+   width: 66px;
+   height: 85px;
+}
+
+
+/* online courses css start */
+.online-courses{
+    width: 100%;
+    padding: 50px 0px;
+}
+.online-courses .cus-card {
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    border-radius: 10px;
+}
+.online-courses .cus-card:hover{
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+    background-color: silver;
+    
+}
+.online-courses .cus-card .cus-body{
+    margin: 20px 0px 30px;
+   
+ 
+    
+
+}
+.online-courses .cus-card .cus-body a{
+   padding: 8px 28px;
+    text-decoration: none;
+ color: white; 
+}
+.online-courses .cus-card .cus-footer img{
+    width: 24px;
+  
+}
+.online-courses .cus-card .cus-footer{
+    display: flex;
+    justify-content: space-between;
+
+  
+}
+/* testimonial section css start */
+.testimonial-section{
+    width: 100%;
+    padding: 50px 0px;
+}
+.testimonial-section .image-part img{
+    width: 120px;
+    text-align: right;
+   
+}
+.testimonial-section .image-part{
+    
+    text-align: right;
+
+}
+.testimonial-section p{
+    
+    width: 70%;
+
+}
+
+/* footer section css start */
+
+footer{
+    width: 100%;
+    padding: 50px 0px 15px;
+    background: rgba(40, 37, 49, 1);
+    color: white;
+
+}
+footer .millions{
+    width: 70%;
+    
+
+}
+footer h6{
+    font-size: 18px;
+    
+
+}
+footer ul{
+    margin: 0;
+    padding: 0;
+}
+footer ul li{
+    list-style-type: none;
+
+    
+
+}
+
+
